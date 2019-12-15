@@ -1,6 +1,6 @@
 ---
 Resources:
-  MyS3Bucket:
+  S3BucketTestingHello:
     Type: "AWS::S3::Bucket"
     Properties:
       AccessControl: PublicRead

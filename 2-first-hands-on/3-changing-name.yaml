@@ -1,7 +1,7 @@
 ---
 Resources:
-  MyS3Bucket:
+  S3BucketTestingHello:
     Type: "AWS::S3::Bucket"
     Properties:
       AccessControl: PublicRead
-      BucketName: "insert-some-random-string-here-123456"
+      BucketName: "changing-name-to-this-123"
